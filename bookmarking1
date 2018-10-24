@@ -1,0 +1,78 @@
+stm官方社区论坛 www.stmcu.org
+stm官方库函数http://www.st.com/zh/embedded-software/stm32-standard-peripheral-libraries.html?querycriteria=productId=LN1939
+python USB库https://github.com/pyusb/pyusb
+http://www.waveshare.net/study/article-658-1.html   stmcubemx教程
+https://blog.csdn.net/u012611644/article/details/79125234  pyserial
+https://download.csdn.net/download/cft163/10419963  FreerRTOS教程
+https://wenku.baidu.com/view/096475283169a4517723a33b.html FreerRTOS中文教程
+https://wenku.baidu.com/view/191b3d9a4a7302768f993986.html FreerRTOS中文教程 无水印版本
+https://blog.csdn.net/adam_embedded/article/details/46544267 hal flash
+https://forum.mianbaoban.cn/cat/28_1.html  电子技术
+http://www.hotpage.com.cn/hotcrc/    CRC计算
+http://crcmod.sourceforge.net/crcmod.html  crcmod使用指南
+http://www.waveshare.net/study/article-655-1.html  CRC cube
+https://www.cnblogs.com/shangdawei/p/4603921.html  STM32的CRC32 软件实现代码
+https://blog.csdn.net/cp1300/article/details/48035667  
+https://www.stmcu.com.cn/Index/search?search_keywords=iap  iap资源
+https://download.csdn.net/download/wanmm21cn/9123605  超级终端WIN10
+https://www.cnblogs.com/dwj411024/p/7717084.html  IAP与超级终端说明
+https://blog.csdn.net/joeblackzqq/article/details/37910839
+https://www.cnblogs.com/smulngy/p/5700283.html 系统
+https://wenku.baidu.com/view/0a61ac2acd7931b765ce0508763231126edb7702.html   dfu iap
+http://bbs.elecfans.com/jishu_583765_1_1.html  dfu
+http://blog.sina.com.cn/s/blog_bf63e2650102vyi1.html flash 写选项字节
+https://blog.csdn.net/lcmsir/article/details/80550821    ymodem
+https://www.jianshu.com/p/3a31065a8e58 python的按位操作
+https://wiki.python.org/moin/FrontPage python wiki
+https://blog.csdn.net/lcmsir/article/details/80550821 Ymodem协议详解
+https://blog.csdn.net/u010737354/article/details/52456570 字符编码
+https://wenku.baidu.com/view/0c09e8cb534de518964bcf84b9d528ea81c72fac.html UTF-8中文转换
+https://www.cnblogs.com/dhsz/p/7737480.html  UTF-16  和utf-8
+https://docs.python.org/3/library/stdtypes.html?highlight=encode#string-methods python 字符转换
+https://www.cnblogs.com/fieldtianye/p/8276552.html bytes和bytearray
+https://zhidao.baidu.com/question/1449224029327165500.html  嵌入式应用层开发
+https://blog.csdn.net/wang7807564/article/details/78164855/ 编码转换问题解决
+https://www.jianshu.com/p/082b20fcafea spyder调试教程
+http://blog.51cto.com/9291927/1883663 qml
+https://blog.csdn.net/xieliang0717/article/details/72938402 调度算法介绍
+https://blog.csdn.net/fanwenjieok/article/details/37758773 freertos介绍
+http://www.pc0359.cn/downinfo/95708.html  iar 8.30破解
+https://download.csdn.net/download/new_come1/10372195 pyqt5随书源码
+https://ideone.com/    在线调试工具
+https://www.pythontab.com/  python社区
+https://blog.csdn.net/weiaitaowang/article/details/52045360  eric6 python
+https://www.sohu.com/a/224251121_774177 freertos的单片机应用场景
+https://github.com/maicss/PyQt5-Chinese-tutoral/blob/master/%E5%B8%83%E5%B1%80%E7%AE%A1%E7%90%86.md  pyqt详细版
+https://6so.so/t/425542/ iar systems 破解
+http://netstorage.iar.com/SuppDB/Protected/PRODUPD/011673/EWARM-CD-7804-12495.exe   EWARM service pack 7.80.4
+https://www.zhihu.com/question/19668080 C语言公开课
+http://www.keil.com/pack/doc/cmsis/RTOS/html/index.html cmsis-rtos API
+https://blog.csdn.net/lh2008xp/article/details/72897954  freertos博客
+http://chromecj.com/chrome/2018-09/1493.html google浏览器插件网
+https://developer.ibm.com/urbancode/  IBM社区
+http://www.cnplugins.com/zhuanti/newpc-need-plugins.html 谷歌插件
+http://chromecj.com/fun/2014-09/78.html  去除 ad
+https://blog.csdn.net/MHSMIE/article/details/53065631  #define
+https://www.cnblogs.com/wanglinqiang/p/4961888.html  四种同步方法区别
+https://zhidao.baidu.com/question/1449224029327165500.html 嵌入式应用层涉及
+http://www.bdtic.com/cn/nxp/MFRC63102HN               mfrc631设计手册
+https://www.cnblogs.com/yangguang-it/p/7211598.html  信号量、邮箱、队列与事件
+https://blog.csdn.net/yueguanghaidao/article/details/8450938#comments C语言开发Linux服务器
+https://blog.csdn.net/qing666888/article/details/79534169 anaconda+pyqt+eric6
+https://www.cnblogs.com/bingabcd/p/7104679.html msgl
+https://www.jianshu.com/p/99028b067805 python 书籍推荐
+https://www.zhihu.com/question/25950466/answer/31731502 python 闭包函数
+*位置参数：可接受任意数量的位置参数(元组)；只能作为最后一个位置参数出现，其后参数均为关键字参数
+**关键字参数：可接受任意数量的关键字参数(字典)；只能作为最后一个参数出现
+https://blog.csdn.net/dongrixinyu/article/details/78775057 python数据结构实例
+http://data.biancheng.net/ C语言数据结构
+https://blog.csdn.net/zhangmh2011/article/details/72801238/  freertos
+https://mp.weixin.qq.com/s/TWx4-jQgVwuhkwzdoyzoYg     电子工程师资料查找
+https://download.csdn.net/download/saicyouki/1652390 C语言数据结构与算法
+https://linux.linuxidc.com/Linux公社
+https://download.csdn.net/download/galoigrogauss/10144824  数据结构与算法：python语言描述 源代码
+https://www.zhihu.com/question/21318658/answer/42690576 数据结构 
+https://algs4.cs.princeton.edu/code/ 算法第四版 源代码 原版本书
+https://www.cnblogs.com/Detector/p/8474489.html python快速排序
+https://blog.csdn.net/wangshuang1631/article/details/54286551/ 计算程序时间
+https://www.cnblogs.com/feixuelove1009/p/6148357.html  查找方法
